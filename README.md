@@ -15,7 +15,7 @@ Proyek ini dikembangkan sepenuhnya dengan teknologi web fundamental:
 - **JavaScript** → menambahkan interaktivitas, seperti fungsionalitas smooth scroll pada navigasi.  
 
 ## 📂 Bukti Modifikasi Framework
-Proyek ini sepenuhnya dibangun dari nol tanpa menggunakan framework CSS atau JavaScript. 
+Proyek ini sepenuhnya dibangun dari nol tanpa menggunakan framework. 
 
 ## 🚀 Proyek di-Deploy
 Landing page ini sudah di-deploy dan dapat diakses secara publik.  
